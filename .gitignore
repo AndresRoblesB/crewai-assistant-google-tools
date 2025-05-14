@@ -1,0 +1,52 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de Google OAuth y tokens
+token.pickle
+credentials.json
+
+# Variables de entorno
+.env
+
+# Logs
+*.log
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Archivos temporales
+*.tmp
+
+# Certificados y claves
+*.pem
+*.key
+*.crt
