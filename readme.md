@@ -2,10 +2,6 @@
 
 Este proyecto implementa un asistente personal basado en IA que puede buscar correos electrónicos en Gmail y programar eventos en Google Calendar, todo a través de comandos en lenguaje natural. El asistente utiliza CrewAI para gestionar agentes y tareas, y puede ser accedido a través de un bot de Telegram.
 
-## Ejemplo
-
-![Vista previa del asistente](img/demo.jpg)
-
 ## Características
 
 - Búsqueda de correos en Gmail con consultas en lenguaje natural (Vistas previas de los correos)
