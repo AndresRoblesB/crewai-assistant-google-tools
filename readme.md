@@ -20,8 +20,8 @@ Este proyecto implementa un asistente personal basado en IA que puede buscar cor
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/asistente-ia-google-tools.git
-   cd asistente-ia-google
+   git clone https://github.com/AndresRoblesB/crewai-assistant-google-tools.git
+   cd crewai-assistant-google-tools
    ```
 
 2. Instala las dependencias:
@@ -101,3 +101,4 @@ if __name__ == '__main__':
 - Se requiere autorización inicial a través de OAuth para acceder a las APIs de Google
 - Las consultas deben ser claras y específicas para obtener los mejores resultados
 - El token de acceso a Google expira y necesita renovarse ocasionalmente
+- No tiene manejo de sesiones, por lo tanto no guarda los mensajes enviados y no tiene la capacidad de recordarlos
